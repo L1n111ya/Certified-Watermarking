@@ -1,0 +1,2 @@
+train_acc_private,train_acc_public,train_loss,train_sign_acc,train_sign_loss,train_time,valid_acc_private,valid_acc_public,valid_loss_private,valid_loss_public,valid_s_private_features.4,valid_s_private_features.5,valid_s_private_features.6,valid_time_private,valid_time_public,valid_total_acc
+32.914532650448145,35.89148527528809,3.8565429707037504,1.0,36.74682299653068,25.62678027153015,39.53,48.04,1.7288854927062989,1.6540679067611694,1.0,1.0,1.0,1.372068166732788,1.5916988849639893,43.785
